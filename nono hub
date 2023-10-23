@@ -623,4 +623,4 @@ local bladeSection = Tab:NewSection("updata in 28 october")
 --credit
 
 local Tab = Window:NewTab("credit")
-local bladeSection = Tab:NewSection("Credit by SK_nono CH Please Sub me Srcipt make in Thailand")
+local bladeSection = Tab:NewSection("Credit by SK_nono CH make in Thailand")
