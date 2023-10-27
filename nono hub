@@ -1,10 +1,17 @@
+- loadstring(game:HttpGet("loadstring(game:HttpGet("https://raw.githubusercontent.com/nono1234xdDC/nono-hub/main/nono%20hub"))()"))()
+--Sub me please
+---make in Thailand
+----SK_nono make ee
+
+-----------------------------------ENG-------------------------------------------------------------------------------------------------------------------------------------------------
+
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
 local Window = Library.CreateLib("Integrate script free by NoNO HUB (mobile/pc)", "DarkTheme")
 
 
 --BF
 
-local Tab = Window:NewTab("Farm(beta)")
+local Tab = Window:NewTab("BFFarm(beta)")
 local bfSection = Tab:NewSection("BF farm(Beta)")
 
 bfSection:NewButton("BF farm world 1-3", "It Beta", function()
@@ -614,7 +621,7 @@ end)
 
 
 
-local bladeSection = Tab:NewSection("updata in 28 october")
+local bladeSection = Tab:NewSection("updata in 4 November")
 
 
 
@@ -623,4 +630,4 @@ local bladeSection = Tab:NewSection("updata in 28 october")
 --credit
 
 local Tab = Window:NewTab("credit")
-local bladeSection = Tab:NewSection("Credit by SK_nono CH make in Thailand")
+local bladeSection = Tab:NewSection("Credit by SK_nono CH Please Sub me Srcipt make in Thailand")
