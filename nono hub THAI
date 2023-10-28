@@ -3,6 +3,7 @@
 ---make in Thailand
 ----SK_nono make ee
 
+
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
 local Window = Library.CreateLib("Integrate script free by NoNO HUB (mobile/pc)", "DarkTheme")
 
@@ -530,7 +531,7 @@ local feSection = Tab:NewSection("FE chat (fake chat)")
 feSection:NewButton("run", "It Beta", function()
 loadstring(game:HttpGet('https://pastebin.com/raw/MBpnp3yS'))()
 end)
--------------------------------------------------------------------------------------------------
+
 local runSection = Tab:NewSection("เพิ่มความเร็ว")
 
 runSection:NewButton("run", "It Beta", function()
