@@ -1,7 +1,6 @@
-- loadstring(game:HttpGet("loadstring(game:HttpGet("https://raw.githubusercontent.com/nono1234xdDC/nono-hub/main/nono%20hub"))()"))()
 --Sub me please
----make in Thailand
-----SK_nono make ee
+--make in Thailand
+--SK_nono make ee
 
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
 local Window = Library.CreateLib("Integrate script free by NoNO HUB (mobile/pc)", "DarkTheme")
